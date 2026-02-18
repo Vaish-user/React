@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SmartPantry</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_add_item">Add Item</string>
+    <string name="nav_suggestions">Suggestions</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="hint_item_name">Item name</string>
+    <string name="hint_quantity">Quantity</string>
+    <string name="hint_unit">Unit (e.g., pcs, kg)</string>
+    <string name="action_save_item">Save item</string>
+
+    <string name="title_suggestions">Suggestions</string>
+    <string name="text_suggestions_placeholder">This is a placeholder screen. You can show recipes, low-stock items, or shopping suggestions here.</string>
+
+    <string name="title_profile">Profile</string>
+    <string name="text_profile_placeholder">Placeholder profile screen. Add user details, settings, and preferences here.</string>
+</resources>
+

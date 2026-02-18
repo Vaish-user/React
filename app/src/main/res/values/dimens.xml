@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="sp_screen_padding">16dp</dimen>
+    <dimen name="sp_card_radius">16dp</dimen>
+    <dimen name="sp_card_elevation">2dp</dimen>
+</resources>
+

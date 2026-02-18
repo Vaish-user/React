@@ -1,0 +1,5 @@
+# This project is an Android app built with Gradle (Java/Kotlin).
+# Python is not required to build or run the app.
+# Add any Python tooling dependencies here if you introduce scripts
+# (for example, code generators, helpers, or CI utilities).
+

@@ -1,0 +1,11 @@
+<resources>
+    <!-- Simple modern palette -->
+    <color name="sp_primary">#2E7D32</color>
+    <color name="sp_onPrimary">#FFFFFF</color>
+    <color name="sp_secondary">#1565C0</color>
+    <color name="sp_onSecondary">#FFFFFF</color>
+    <color name="sp_surface">#FFFFFF</color>
+    <color name="sp_onSurface">#1A1C1A</color>
+    <color name="sp_background">#F5F5F5</color>
+</resources>
+
